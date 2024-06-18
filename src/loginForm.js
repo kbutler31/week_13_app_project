@@ -4,7 +4,8 @@ import React from "react";
 
 
 // this is the login form 
-
+ //login page is not working, need to resolve.
+ //add more styling
 function LoginForm(){
     return (
         <div className="login-form">
