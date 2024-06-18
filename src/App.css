@@ -36,3 +36,74 @@
     transform: rotate(360deg);
   }
 }
+
+.login-form{
+  border: 15px solid saddlebrown;
+  font-size: 40px;
+  margin-top: 0%;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+.login-form-heading {
+color: saddlebrown;
+border-bottom: 10px solid rgba(139, 69, 19, 0.628);
+font-size: 40px;
+padding-top: 0;
+padding-bottom: 20px;
+margin-bottom: 20px;
+}
+
+.log-in button{
+font-size: 20px;
+margin-top: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label{
+  display: block;
+  font-style: oblique;
+  font-size: 36px;
+  color: rgba(139, 69, 19, 0.639);
+  margin-bottom: 26px;
+}
+
+h1{
+  font-size: 50px;
+  color: rgb(7, 3, 0);
+  background-color: saddlebrown ;
+}
+
+body{
+  background-color: tan;
+}
+
+.navBar{
+  background-color: whitesmoke;
+  padding: 15px 0;
+}
+
+.nav-item{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}
+
+.nav-item li{
+  margin: 0 10px;
+}
+
+.nav-item li a {
+  color: sienna;
+}
+
+.nav-item li a:hover{
+  color:rgb(197, 140, 100)
+}
